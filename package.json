@@ -1,0 +1,12 @@
+{
+  "name": "bun-image-enhance-app",
+  "private": true,
+  "scripts": {
+    "dev": "bun run server.ts",
+    "start": "bun run server.ts"
+  },
+  "dependencies": {
+    "sharp": "^0.32.0",
+    "formidable": "^2.1.1"
+  }
+}
